@@ -1,0 +1,11 @@
+commit e16e104da9dc1225d13e04e99c4cfc3b93b29fbc
+Author: Harrypatria <harpatria@gmail.com>
+Date:   Sun Feb 26 15:37:57 2023 +0000
+
+    Explainable AI code by Dr. Harry Patria ~ Patria & Co.
+
+commit ded792ca169848fa5ca5324b89eff6c78873e0a5
+Author: Harrypatria <harpatria@gmail.com>
+Date:   Sat Jun 4 18:36:42 2022 +0100
+
+    create a new project template
