@@ -1,4 +1,4 @@
-# ExplainableAI
+# Explainable AI
 
 ### Overview:
 Explainable AI (XAI) is an important area of research that aims to provide a better understanding of how machine learning models make decisions. SHAP (SHapley Additive exPlanations) is a popular XAI method that provides a local interpretation of machine learning models. This repository provides an introduction to XAI and SHAP and demonstrates how SHAP can be used to interpret a machine learning model for income prediction.
