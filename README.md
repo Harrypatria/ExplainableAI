@@ -48,8 +48,3 @@ To use the code, follow these steps:
 
 ### Clone the repository
 git clone https://github.com/Harrypatria/ExplainableAI
-
-### Acknowledgments
-Dr. Harry Patria ~ Patria & Co. 
-patria@strategitransforma.com
-
