@@ -6,8 +6,6 @@ Sure! Here's your updated `README.md` in the same style as the example, includin
 
 <div align="center">
 
-![Explainable AI](https://raw.githubusercontent.com/Harrypatria/ExplainableAI/main/assets/xai_banner.png)
-
 [![GitHub stars](https://img.shields.io/github/stars/Harrypatria/ExplainableAI?style=social)](https://github.com/Harrypatria/ExplainableAI/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Harrypatria/ExplainableAI?style=social)](https://github.com/Harrypatria/ExplainableAI/network/members)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
