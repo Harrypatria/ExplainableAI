@@ -25,14 +25,6 @@ We demonstrate how SHAP can be applied to interpret model predictions on an **in
 
 ## 🚀 Quick Start
 
-### ▶️ Run in Google Colab (No Installation Needed)
-
-<p align="center">
-  <a href="https://colab.research.google.com/drive/1Qg5mJ8gmMn2Q7MUNVFtQFyOMczQ6fVLe?usp=sharing" target="_blank">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" />
-  </a>
-</p>
-
 ### 💻 Local Setup
 
 ```bash
