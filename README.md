@@ -1,5 +1,3 @@
-Sure! Here's your updated `README.md` in the same style as the example, including a Google Colab badge link for ease of access:
-
 ---
 
 # 🧠 Explainable AI with SHAP
